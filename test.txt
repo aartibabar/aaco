@@ -33,3 +33,21 @@ git commit -m "aa"
 git push origin main urlcopy
 then 
 jenkin newitem python freestyle general ok source git? branch-main buildsteps command-python hello apply save build now
+////docker command
+docker version // docker info //
+docker images // docker images ls // docker ps // 
+docker pull python:3.9.18-slim-bullseye // docker run --name my_container python // docker rmi (imageid tak)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
