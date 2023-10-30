@@ -1,0 +1,35 @@
+git init
+git config --global user.name " "
+git config --global user.email " "
+git status
+git add test.txt
+git status
+git commit -m "aa"
+git remote add origin urlcopy
+git push -u origin master
+
+git checkout -b "version1"
+git branch
+git add .
+git push origin version 1
+
+create jo.py file/git clone url
+git add .
+git status
+git commit -m "aa"
+git remote add origin version1 urlcopy
+git remote -v
+git push -u origin version1
+///for java
+git config 2 command
+git clone url
+cd reponame (create file on notepad ) print ("hello world")
+this pc-> local disk->user->admin->subham file(reponame)->file name(hello.py)then back to gitbash
+ls
+git add "hello.py"
+git add .
+git status
+git commit -m "aa"
+git push origin main urlcopy
+then 
+jenkin newitem python freestyle general ok source git? branch-main buildsteps command-python hello apply save build now
